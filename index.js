@@ -37,4 +37,5 @@ for(var i=0;i<questionGroup.length;i++){
   play(currentQuestion.question,currentQuestion.answer)
 }
 console.log("Nice you are really know Deepak")
+
 console.log("Yay! Your Final scored: ",score);
